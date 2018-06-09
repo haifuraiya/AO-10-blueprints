@@ -1,5 +1,5 @@
 
-Phil Karn KA9Q has been working on something fun for the group. If you enjoy this quiz, please feel free to share it and let him know!
+Phil Karn KA9Q has been working on something fun for us. If you enjoy this quiz, please feel free to share it and let him know!
 
 Given the documents that you can find at: https://github.com/phase4space/AO-10-blueprints
 
